@@ -1,4 +1,4 @@
-FROM test.caicloudprivatetest.com/library/openjdk:8u151-alpine3.7
+FROM test.cargo.io/library/openjdk:8u151-alpine3.7
 
 COPY democi.jar  /usr/src/myapp/
 
